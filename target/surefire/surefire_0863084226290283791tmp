@@ -1,0 +1,7 @@
+#surefire_0
+#Fri Apr 16 16:32:04 ICT 2021
+environment=prod
+user.dir=C\:\\Users\\asus\\eclipse-workspace\\fullstack-assignment
+suiteXmlFile=api.xml
+localRepository=C\:\\Users\\asus\\.m2\\repository
+basedir=C\:\\Users\\asus\\eclipse-workspace\\fullstack-assignment
